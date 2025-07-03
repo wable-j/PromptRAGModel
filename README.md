@@ -6,8 +6,6 @@ A sophisticated Retrieval-Augmented Generation (RAG) system that enables questio
 
 This system implements a comprehensive knowledge base that ingests content from various sources, processes it, and enables natural language queries with contextually relevant answers. The application uses state-of-the-art AI technologies to understand and retrieve information from multimodal content.
 
-![Multimodal RAG System](https://github.com/user/multimodal-rag/raw/main/screenshot.png)
-
 ## Features
 
 - **Document Processing**: Extract and chunk text from PDF documents with semantic boundary awareness
